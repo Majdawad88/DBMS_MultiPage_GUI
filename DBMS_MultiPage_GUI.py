@@ -1,4 +1,4 @@
-# git clone 
+# git clone https://github.com/Majdawad88/DBMS_MultiPage_GUI.git
 
 
 import tkinter as tk
